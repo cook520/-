@@ -1,0 +1,7 @@
+com\example\demo\controller\ClassroomController.class
+com\example\demo\entity\Reservation.class
+com\example\demo\repository\ClassroomRepository.class
+com\example\demo\entity\Classroom.class
+com\example\demo\ClassroomReservationApplication.class
+com\example\demo\service\ClassroomService.class
+com\example\demo\repository\ReservationRepository.class
